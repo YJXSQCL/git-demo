@@ -4,7 +4,7 @@ hello lihang   hello  git
 hello lihang   hello  git "master test"
 hello lihang   hello  git
 hello lihang   hello  git
-hello lihang   hello  git
+hello lihang   hello  git "hot-fix test"
 hello lihang   hello  git
 hello lihang   hello  git
 hello lihang   hello  git
